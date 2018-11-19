@@ -3,3 +3,6 @@ test3.txt
 
 # Ignore folder named 'testfolder'
 testfolder/
+
+# Ignore .jpg files
+.jpg
