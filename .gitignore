@@ -1,0 +1,5 @@
+# Ignore file named 'test3.txt'
+test3.txt
+
+# Ignore folder named 'testfolder'
+testfolder/
